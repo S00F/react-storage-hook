@@ -52,7 +52,6 @@ react-storage-hook/
 │── package.json            # Project metadata and dependencies
 │── webpack.config.js       # Webpack configuration
 │── README.md               # Project documentation
-│── babel.config.json       # Babel configuration
 │── node_modules/           # Installed dependencies (generated after npm install)
 ```
 
