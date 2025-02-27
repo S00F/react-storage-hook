@@ -1,0 +1,23 @@
+{
+  "name": "react-storage-hook",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "src/useStorage.js",
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^5.0.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "S00F",
+  "license": "ISC",
+  "description": "react storage hook library"
+}
